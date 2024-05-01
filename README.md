@@ -33,7 +33,7 @@ main.py: The main script that loads data, implements the kNN algorithm, and gene
 ### Getting Started
 Clone the Repository:
 ```
-git clone https://github.com/your-username/movie-recommendation-knn.git
+https://github.com/Thireshsidda/ML_Project50-MovieRecommendationEngine.git
 ```
 
 ### Install Dependencies:
